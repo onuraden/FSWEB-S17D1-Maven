@@ -1,5 +1,6 @@
 package com.workintech.fswebs17d1;
 
+import com.workintech.fswebs17d1.entity.Animal;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
